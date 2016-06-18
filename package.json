@@ -1,0 +1,25 @@
+{
+  "name": "rpi-panel",
+  "version": "1.0.0",
+  "description": "This purpose of this project is to build out an RPI to be a replacement for an alarm system panel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mckaycr/rpi-panel.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "alarm",
+    "system"
+  ],
+  "author": "Christopher McKay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckaycr/rpi-panel/issues"
+  },
+  "homepage": "https://github.com/mckaycr/rpi-panel#readme"
+}
